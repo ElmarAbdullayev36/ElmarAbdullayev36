@@ -29,14 +29,12 @@ Qabaqcıl veb tətbiqləri və istifadəçi yönümlü interfeyslər (UI/UX) haz
 
 ---
 
-### 📊 GitHub Statistikaları
-
-### 📊 GitHub Statistikaları
+### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElmarAbdullayev36&show_icons=true&theme=tokyonight" alt="Elmar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmarAbdullayev36&theme=tokyonight" alt="Elmar's GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarAbdullayev36&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarAbdullayev36&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
