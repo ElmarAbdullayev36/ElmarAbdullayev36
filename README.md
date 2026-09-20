@@ -43,8 +43,8 @@ Qabaqcıl veb tətbiqləri və istifadəçi yönümlü interfeyslər (UI/UX) haz
 ### 📬 Mənimlə Əlaqə
 
 - **GitHub:** [@ElmarAbdullayev36](https://github.com/ElmarAbdullayev36)
-- **LinkedIn:** [LinkedIn Profil Linkiniz]
-- **E-poçt:** [E-poçt Ünvanınız]
+- **LinkedIn:** (https://www.linkedin.com/in/elmar-abdullayev-5666123a4/)
+- **E-poçt:** elmar.abdullayev886@gmail.com
 
 <!--
 **ElmarAbdullayev36/ElmarAbdullayev36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
