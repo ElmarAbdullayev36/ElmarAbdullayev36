@@ -36,7 +36,7 @@ Qabaqcıl veb tətbiqləri və istifadəçi yönümlü interfeyslər (UI/UX) haz
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmarAbdullayev36&theme=tokyonight" alt="Elmar's GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElmarAbdullayev36&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrst-anuraghazrua.vercel.app/api/top-langs/?username=ElmarAbdullayev36&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
